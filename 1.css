@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    
+    font-weight: 500;
+}
+h1{
+  padding-top: 100px;
+  font-size: 90px;
+  color: #66BFBF;
+}
+h2{
+    font-size: 50px;
+    color: #66BFBF;
+}
+hr{
+    width: 10%;
+    margin-left: 40%;
+}
+p{
+    font-size: 30px;
+}
+.top_container{
+    background-color: #f8f1f1;
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Style Script', cursive;
+    font-family: 'WindSong', cursive;
+}
+.middle_container{
+    background-color: #F4DFD0;
+    height: 200px;
+    width: 200px;
+    margin-left: 216px;
+    border: 20px solid;
+    padding: 20px;
+   
+}
+
+.bottom_container{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    margin-left: 495px;
+    border: 10px solid;
+}
+.bottom_cloud{
+    position: absolute;
+    top: 40%;
+}
+.top_cloud{
+    position: absolute;
+    left: 70%;
+}
+.middle-container {
+    background-color: #EEEEEE;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+.middle-container img{
+    height: 500px;
+    width: 500px;
+   
+}
+.profile{
+    padding-top: 50px;
+}
+#my_photo{
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+.bottom-container{
+    background-color: #EEEEEE;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.skills{
+    padding-bottom: 20px;
+}
+.skills h2{
+    padding-top: 55px;
+}
+h2{
+    font-size: 40px;
+}
+.skill-row h3{
+    text-align: left;
+    padding-left: 300px;
+    
+}
+#first{
+    text-align: left;
+    padding-left: 300px;
+}
+#first p{
+    padding-left: 300px;
+}
+
+.skills img{
+   float: left;
+    width: 30%;
+    height: 30%;
+    text-align: left;
+}
+#second{
+    text-align: left;
+    clear: left;
+}
+#second img{
+    float: right;
+}
+.bottom-container{
+    padding-top: 20px;
+    background-color: #DAD0C2;
+}
+.contact-me{
+    background-color: #DAD0C2;
+}
+a{
+    color:black;
+}
